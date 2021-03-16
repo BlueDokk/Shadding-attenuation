@@ -1,6 +1,5 @@
 # Shadding attenuation algorithm 💻🧬
 ## (with DullRazor algorithm)
-
 <img src="screenshots/screenshot_0.png" alt="homepage"><br>
 <hr>
 
